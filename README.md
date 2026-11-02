@@ -1,0 +1,1 @@
+# adoption-analytics-test-sample
